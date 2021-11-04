@@ -1,4 +1,4 @@
-connection: "autoc360"
+connection: "looker-private-demo"
 
 # include all the views
 include: "/views/**/*.view"

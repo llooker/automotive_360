@@ -1,5 +1,5 @@
 view: error_codes {
-  sql_table_name: `data-demo-2021.autorepair.errorcodes` ;;
+  sql_table_name: `looker-private-demo.automotive_customer_360.errorcodes` ;;
 
   dimension: error_code {
     primary_key: yes

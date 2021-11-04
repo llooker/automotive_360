@@ -1,5 +1,5 @@
 view: dealer_data {
-  sql_table_name: `data-demo-2021.autorepair.dealerdata` ;;
+  sql_table_name: `looker-private-demo.automotive_customer_360.dealerdata` ;;
 
   dimension: vin {
     primary_key: yes

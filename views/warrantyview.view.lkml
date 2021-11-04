@@ -1,5 +1,5 @@
 view: warrantyview {
-  sql_table_name: `data-demo-2021.autorepair.warrantyview`
+  sql_table_name: `looker-private-demo.automotive_customer_360.warrantyview`
     ;;
 
   dimension: city {

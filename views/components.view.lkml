@@ -1,5 +1,5 @@
 view: components {
-  sql_table_name: `data-demo-2021.autorepair.components` ;;
+  sql_table_name: `looker-private-demo.automotive_360.components` ;;
 
   dimension: component_type_id {
     primary_key: yes
